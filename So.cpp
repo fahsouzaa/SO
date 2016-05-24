@@ -4,5 +4,5 @@
 int main (){
 	
 	printf("Aula de SO");
-	printf("MODIFICACAO");
+
 }
